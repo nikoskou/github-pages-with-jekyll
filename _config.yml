@@ -1,10 +1,10 @@
-title: Your awesome title
-author: GitHub User
+title: Testing gh pages
+author: nikoskou
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Not sure what this page is about yet. It might not exist for long...
+  It might change completely, or it might stay as is with a couple of
+  changes here and there.
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
@@ -12,4 +12,4 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-cayman
+theme: minima
