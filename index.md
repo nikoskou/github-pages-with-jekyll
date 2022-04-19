@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Testing gh pages"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This is a playground for my testing
